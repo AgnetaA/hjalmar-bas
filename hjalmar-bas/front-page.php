@@ -14,13 +14,13 @@
 		?>
 
 		<?php if ( $frontpage_image != '') { ?>
-			<div class="frontpage-top-image" > 
+			<div id="frontpage-top-image" class="frontpage-top-image" > 
 				<div class="front-page-image-inner-div"><h3 id="upper-image-text"><span><?php echo $frontpage_upper_image_text; ?></span></h3></div>
 			</div>
 		<?php } ?>	
 
 
-		<div class="content-wrap">
+		<div id="content-wrap" class="content-wrap">
 
 
 

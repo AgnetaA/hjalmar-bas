@@ -23,11 +23,11 @@
 	
 	<body>	
 
-		<div class="wrap-all">
+		<div id="wrap-all" class="wrap-all">
 
-			<header class="header">	
+			<header id="header" class="header">	
 
-				<div class="header-logo-space"> 
+				<div id="header-logo-space" class="header-logo-space"> 
 					<?php the_custom_logo(); ?>
 				</div>
 

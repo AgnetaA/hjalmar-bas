@@ -13,7 +13,7 @@
 		<?php } ?>
 
 
-		<div class="content-wrap">
+		<div id="content-wrap" class="content-wrap">
 
 			<?php 
 			$promo_show = get_theme_mod ( 'promo_show' );

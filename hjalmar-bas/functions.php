@@ -14,7 +14,7 @@ function hjalmar_bas_customize_register( $wp_customize ) {
 	) );
 
 	$wp_customize->add_section( 'logo_and_background' , array(
-	'title'      => __( 'Logga och bakgrund', 'hjalmar-bas' ),
+	'title'      => __( 'Logo-inställningar och bakgrund', 'hjalmar-bas' ),
 	'panel'		 => 'header_content',
 	) ); 
 

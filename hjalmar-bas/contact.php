@@ -8,7 +8,7 @@ Template Name: Kontaktsida
 
 
 
-		<div class="content-wrap">
+		<div id="content-wrap" class="content-wrap">
 
 
 			<div class="contact-content">
